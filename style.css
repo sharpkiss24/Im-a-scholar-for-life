@@ -21,3 +21,6 @@ h2 {
 	color: blue;
 }
 
+li a {
+  display: block;
+  background-color: cyan;
