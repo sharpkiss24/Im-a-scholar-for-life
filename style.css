@@ -21,8 +21,8 @@ h2 {
 	color: blue;
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 2;
   overflow: hidden;
   background-color: #d60a0a;
 }
