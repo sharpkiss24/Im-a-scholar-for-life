@@ -22,7 +22,7 @@ h2 {
 }
 
 li a {
-  display: none;
+  display: list-item;
   background-color: rgb(255, 0, 0);
  }
 
