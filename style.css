@@ -19,7 +19,7 @@ p {
 h2 {
 	text-align: center;
 	color: blue;
- ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -39,6 +39,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
-  background-color: #18b2aa;
-}
+
+
+
