@@ -22,7 +22,7 @@ h2 {
 }
 
 li a {
-  display: square;
+  display: block;
   background-color: rgb(255, 0, 0);
  }
 
@@ -30,7 +30,7 @@ li a {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 20px;
+  width: 60px;
 } 
 
 
