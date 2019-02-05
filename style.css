@@ -23,7 +23,7 @@ h2 {
 
 li a {
   display: none;
-  background-color: transparent;
+  background-color: rgb(255, 0, 0);
  }
 
  ul {
