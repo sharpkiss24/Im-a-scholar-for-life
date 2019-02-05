@@ -32,3 +32,8 @@ li a {
   padding: 0;
   width: 20px;
 } 
+
+li a{
+	 text-align: center;
+
+}
