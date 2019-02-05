@@ -19,13 +19,14 @@ p {
 h2 {
 	text-align: center;
 	color: blue;
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
-li a {
-  display: block;
-  background-color: rgb(255, 0, 0);
-  overflow: hidden;
- }
 li {
   float: left;
 }
@@ -37,15 +38,7 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+
 li a:hover {
-  background-color: #111;
- }
- ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 20px;
-} 
-
-
-
+  background-color: #18b2aa;
+}
