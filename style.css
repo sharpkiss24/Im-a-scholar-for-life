@@ -22,12 +22,12 @@ h2 {
 }
 
 li a {
-  display: square;
+  display: block;
   background-color: rgb(121, 159, 234);
  }
 
  ul {
-  list-style-type: square;
+  list-style-type: circle;
   margin: 0;
   padding: 0;
   width: 2px;
