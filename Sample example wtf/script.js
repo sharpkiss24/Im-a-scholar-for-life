@@ -4,7 +4,7 @@ paragraph.innerHTML = "this is the contents of my paragraph";
 
 var videoBanner = document.getElementById("videoBanner");
 
-videobanner.appendChild(paragraph);
+videoBanner.appendChild(paragraph);
 
 var newHeader = document.createElement("h2");
 
