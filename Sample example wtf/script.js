@@ -11,3 +11,9 @@ var newHeader = document.createElement("h2");
 newHeader.innerHTML = "Ladies and Gentlmen";
 
 videoBanner.insertBefore(newHeader, paragraph);
+
+
+//remove stuff//
+videoBanner.removeChild(paragraph)
+
+videoBanner.removeChild(newHeader)
