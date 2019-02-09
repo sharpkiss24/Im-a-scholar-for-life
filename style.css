@@ -8,8 +8,8 @@ h1{
 }
 
 body {
-	background-color: grey;
-  background 
+ background-image: url("paper.gif");
+ background-color: #cccccc;
 }
 
 p {
@@ -21,8 +21,5 @@ h2 {
 	text-align: center;
 	color: blue;
 }
-body {
- background-image: url("paper.gif");
- background-color: #cccccc;
-}
+
 
