@@ -8,7 +8,7 @@ videoBanner.appendChild(paragraph);
 
 var newHeader = document.createElement("h2");
 
-newHeader.innerHTML = "Ladies and Gentlmen";
+newHeader.innerHTML = "Ladies and Gents";
 
 videoBanner.insertBefore(newHeader, paragraph);
 
