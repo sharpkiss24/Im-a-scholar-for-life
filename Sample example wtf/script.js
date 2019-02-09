@@ -13,11 +13,11 @@ newHeader.innerHTML = "Ladies and Gents";
 videoBanner.insertBefore(newHeader, paragraph);
 
 //remove stuff//
-videoBanner.removeChild(paragraph);
+//videoBanner.removeChild(paragraph);
 
-videoBanner.removeChild(newHeader);
+//videoBanner.removeChild(newHeader);
 
-videoBanner.addEventlistener("click", myEventHandler);
+videoBanner.addEventListener("click", myEventHandler);
 
 function myEventHandler() {
 	alert("hey Man don't go clicking random stuff if your bored");
