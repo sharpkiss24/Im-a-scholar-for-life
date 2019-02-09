@@ -5,3 +5,9 @@ paragraph.innerHTML = "this is the contents of my paragraph";
 var videoBanner = document.getElementById("videoBanner");
 
 videobanner.appendChild(paragraph);
+
+var newHeader = document.createElement("h2");
+
+newHeader.innerHTML = "Ladies and Gentlmen";
+
+videoBanner.insertBefore(newHeader, paragraph);
