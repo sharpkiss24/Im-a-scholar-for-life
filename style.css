@@ -8,7 +8,7 @@ h1{
 }
 
 body {
-background-image: "my life.png";
+  background-image: url("paper.gif");
 background-color: grey; 
 }
 
