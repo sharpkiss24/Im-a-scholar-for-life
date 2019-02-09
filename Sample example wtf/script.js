@@ -20,5 +20,5 @@ videoBanner.insertBefore(newHeader, paragraph);
 videoBanner.addEventlistener("click", myEventHandler);
 
 function myEventHandler() {
-	alert("hey Man don't go clicking random stuff if your bored")
+	alert("hey Man don't go clicking random stuff if your bored");
 }
