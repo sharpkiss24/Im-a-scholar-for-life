@@ -5,6 +5,7 @@ h1 {
 h1{
 	color: royalblue;
 	text-align: center;
+
 }
 
 body {
@@ -15,6 +16,7 @@ background-color: grey;
 p {
 	font-family:cursive;
 	font-size: 25px;
+  color: white;
 }
 
 h2 {
