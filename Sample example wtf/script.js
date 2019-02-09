@@ -12,4 +12,7 @@ newHeader.innerHTML = "Ladies and Gents";
 
 videoBanner.insertBefore(newHeader, paragraph);
 
+//remove stuff//
+videoBanner.removeChild(paragraph);
 
+videoBanner.removeChild(newHeader);
