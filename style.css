@@ -4,14 +4,14 @@ nav ul li{
 	background-image: url("cherryBlossoms.jpg");
 	border: 2px solid powderblue;
 	margin-top: 15px;
+	padding: 10px 50px
 }
 
 h1{
 	color: royalblue;
 	text-align: center;
 	border: 1px solid powderblue;
-  	padding: 10px 50px;
-  	margin: 50px
+  	padding:6px;
 }
 
 body {
