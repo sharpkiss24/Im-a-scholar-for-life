@@ -2,6 +2,7 @@ nav ul li{
 	text-align: center;
 	display: inline;
 	background-image: url("cherryBlossoms.jpg");
+	border: 2px solid powderblue;
 }
 
 h1{
