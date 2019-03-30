@@ -1,11 +1,9 @@
-h1 {
- text-align:center;
-}
-
 h1{
 	color: royalblue;
 	text-align: center;
-
+	border: 1px solid powderblue;
+  	padding: 6px;
+  	margin: 50px
 }
 
 body {
@@ -22,6 +20,14 @@ p {
 h2 {
 	text-align: center;
 	color: blue;
+	border: 1px solid powderblue;
+  	padding: 6px;
+  	margin: 50px
+}
+
+title{
+	border-style: initial;
+	background-image: url("i love them.jpg");
 }
 
 
