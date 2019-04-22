@@ -1,15 +1,16 @@
 nav ul li{
 	text-align: center;
 	display: inline;
-	background-image: url("cherryBlossoms.jpg");
+	background-image: url("velvet.jpeg ");
 	border: 2px solid powderblue;
 	margin-top: 15px;
-	padding: 10px 60px;
-	text-decoration-color: black
+	padding: 10px 70px;
+	text-decoration-color:none;
+	mar
 }
 
 h1{
-	color: royalblue;
+	color: white;
 	text-align: center;
 	border: 1px solid powderblue;
   	padding:6px;
@@ -17,7 +18,7 @@ h1{
 
 body {
   background-image: url("my life.png");
-background-color: grey; 
+background-color:pink; 
 }
 
 p {
@@ -27,8 +28,7 @@ p {
 }
 
 h2 {
-	text-align: center;
-	color: blue;
+	color: white ;
 	border: 1px solid powderblue;
   	padding: 6px;
   	margin: 50px
@@ -36,12 +36,12 @@ h2 {
 h1{
 	border-style: initial;
 	font-family: cursive;
-	background-image: url("cherryBlossoms.jpg");
+	background-image: url("velvet.jpeg");
 }
 
 h2{
 	border-style: initial;
 	font-family: cursive;
-	background-image: url("cherryBlossoms.jpg");
+	background-image: url("velvet.jpeg");
 }
 
