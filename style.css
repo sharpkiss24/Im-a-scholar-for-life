@@ -18,7 +18,8 @@ h1{
 
 body {
   background-image: url("my life.png");
-background-color:pink; 
+background-color:pink;
+background-repeat: no-repeat; 
 }
 
 p {
