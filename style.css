@@ -17,10 +17,11 @@ h1{
 }
 
 body {
-  background-image: url("my life.png");
-background-color:pink;
-background-repeat: repeat; 
+background-image: linear-gradient(pink,purple,blue); 
+
 }
+
+
 
 p {
 	font-family:cursive;
