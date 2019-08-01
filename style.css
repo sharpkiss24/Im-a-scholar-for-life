@@ -1,7 +1,7 @@
 nav ul li{
 	text-align: center;
 	display: inline;
-	background-image: url("velvet.jpeg ");
+	background-image: linear-gradient( #0000ff, #00ffff);
 	border: 2px solid powderblue;
 	margin-top: 15px;
 	padding: 10px 70px;
@@ -14,11 +14,12 @@ h1{
 	text-align: center;
 	border: 1px solid powderblue;
   	padding:6px;
+  	background-image: linear-gradient( #0000ff, #00ffff);
 }
 
 body {
-background-image: linear-gradient(pink,purple,blue); 
-
+	background-image: linear-gradient(pink,purple,blue); 
+	background-size: 2000px;
 }
 
 
@@ -34,16 +35,17 @@ h2 {
 	border: 1px solid powderblue;
   	padding: 6px;
   	margin: 50px
+  	background-image: linear-gradient( #0000ff, #00ffff);
 }
 h1{
 	border-style: initial;
 	font-family: cursive;
-	background-image: url("velvet.jpeg");
+	background-image: linear-gradient( #0000ff, #00ffff);
 }
 
 h2{
 	border-style: initial;
 	font-family: cursive;
-	background-image: url("velvet.jpeg");
+	background-image: linear-gradient( #0000ff, #00ffff);
 }
 
